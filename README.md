@@ -4,9 +4,9 @@ Software developer in Pleasanton, California. Currently exploring founding my ow
 
 ## What I am into
 
-- Website modernization
-- The user experience
-- Graphical video games and applications
+- Emerging frameworks and tooling
+- User Experience
+- Graphical applications
 
 ## What I am working on
 
@@ -14,4 +14,4 @@ Software developer in Pleasanton, California. Currently exploring founding my ow
 
 ---
 
-Always happy to talk about interesting problems.
+Say hello sometime!
