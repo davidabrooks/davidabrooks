@@ -1,12 +1,12 @@
-# Hi, I am David Brooks
+# Hi, I'm David Brooks
 
-Software developer in Pleasanton, California. I am currently exploring founding my own software company.
+Software developer in Pleasanton, California. Currently exploring founding my own software company.
 
 ## What I am into
 
 - Website modernization
-- Usability-focused mobile apps
-- Graphical video games
+- The user experience
+- Graphical video games and applications
 
 ## What I am working on
 
